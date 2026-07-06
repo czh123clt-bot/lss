@@ -1,0 +1,6 @@
+{
+  "name": "历史上的今天",
+  "description": "探索属于你的专属历史时刻，发现日期背后的故事。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
